@@ -32,6 +32,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h5>Please run on a browser that has MetaMask... <span>🦊</span></h5>
         <button onClick={requestAccount}>Connect Wallet</button>
         <h3>Wallet Address: {walletAddress}</h3>
       </header>

@@ -44,3 +44,12 @@ button {
   background-color: blue;
   color: white;
 }
+
+h5 {
+  color: black;
+  font-style: italic;
+}
+
+h5 span {
+  font-style: normal;
+}
